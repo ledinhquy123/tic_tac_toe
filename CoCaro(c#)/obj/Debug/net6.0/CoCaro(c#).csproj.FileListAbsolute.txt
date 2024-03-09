@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\CoCaro(c#)\CoCaro(c#)\bin\Debug\net6.0\CoCaro(c#).exe
+C:\Users\Admin\source\repos\CoCaro(c#)\CoCaro(c#)\bin\Debug\net6.0\CoCaro(c#).deps.json
+C:\Users\Admin\source\repos\CoCaro(c#)\CoCaro(c#)\bin\Debug\net6.0\CoCaro(c#).runtimeconfig.json
+C:\Users\Admin\source\repos\CoCaro(c#)\CoCaro(c#)\bin\Debug\net6.0\CoCaro(c#).dll
+C:\Users\Admin\source\repos\CoCaro(c#)\CoCaro(c#)\bin\Debug\net6.0\CoCaro(c#).pdb
+C:\Users\Admin\source\repos\CoCaro(c#)\CoCaro(c#)\obj\Debug\net6.0\CoCaro(c#).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CoCaro(c#)\CoCaro(c#)\obj\Debug\net6.0\CoCaro(c#).AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CoCaro(c#)\CoCaro(c#)\obj\Debug\net6.0\CoCaro(c#).AssemblyInfo.cs
+C:\Users\Admin\source\repos\CoCaro(c#)\CoCaro(c#)\obj\Debug\net6.0\CoCaro(c#).csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CoCaro(c#)\CoCaro(c#)\obj\Debug\net6.0\CoCaro(c#).dll
+C:\Users\Admin\source\repos\CoCaro(c#)\CoCaro(c#)\obj\Debug\net6.0\refint\CoCaro(c#).dll
+C:\Users\Admin\source\repos\CoCaro(c#)\CoCaro(c#)\obj\Debug\net6.0\CoCaro(c#).pdb
+C:\Users\Admin\source\repos\CoCaro(c#)\CoCaro(c#)\obj\Debug\net6.0\CoCaro(c#).genruntimeconfig.cache
+C:\Users\Admin\source\repos\CoCaro(c#)\CoCaro(c#)\obj\Debug\net6.0\ref\CoCaro(c#).dll
